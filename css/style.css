@@ -295,6 +295,7 @@ img {
 
 .toof-video {
   width: 370px;
+  max-width: 100%;
 }
 
 .toof-img {
