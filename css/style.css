@@ -320,12 +320,12 @@ p {
   }
 
   .toof-video {
-    order: 0;
+    //order: 0;
+    //margin-bottom: 20px;
+  }
+  .wrap > div {
       margin-bottom: 20px;
   }
-    .wrap-video {
-        order: 1
-    }
 
   .toof-img {
     margin: auto;
