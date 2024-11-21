@@ -316,12 +316,16 @@ p {
 
 @media (max-width: 768px) {
   .wrap {
-    display: block;
+    flex-direction: column;
   }
 
   .toof-video {
-    display: none;
+    order: 0;
+      margin-bottom: 20px;
   }
+    .wrap-video {
+        order: 1
+    }
 
   .toof-img {
     margin: auto;
